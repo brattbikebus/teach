@@ -3,9 +3,9 @@ title: Home
 layout: home
 
 hero:
-  name: Bike Bus
+  name: Teach
   text: Brattleboro
-  tagline: Riding Together to School
+  tagline: Teaching Resources
   image:
     src: /bike_bus_logo.png
     alt: Bike Bus Logo
