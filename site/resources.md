@@ -16,7 +16,7 @@ layout: doc
   position: relative;
   width: 100%;
   height: 0;
-  padding-bottom: 120%; /* Controls the aspect ratio */
+  padding-bottom: 90%; /* Controls the aspect ratio */
   overflow: hidden;
 }
 
