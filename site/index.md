@@ -17,15 +17,15 @@ hero:
 features:
   - icon: 🦺
     title: Safe
-    details: Safety in numbers! We ride as a big pack and obey traffic rules. Families ride together with kids and we ride at an accessible pace for everyone.
+    details: Safety is cool!
   - icon: 🌞
-    title: Simple
-    details: We try not to over-complicate things. Let's get out and ride together!
+    title: Kind
+    details: Kind for the win!
   - icon: 🌈
     title: Healthy
-    details: We get some exercise, get to socialize, and take in some fresh air -- all during our commute.
+    details: Let's keep it healthy!
 
-date: 2024-11-07T08:57:00.000Z
+date: 2026-07-28T08:57:00.000Z
 ---
 
 ## Come Teach With Us!
