@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main
-  repo: brattbikebus/info
+  repo: brattbikebus/teach
   auth_scope: repo
   open_authoring: true
 

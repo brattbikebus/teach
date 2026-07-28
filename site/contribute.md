@@ -32,4 +32,4 @@ When you navigate to the individual pages within this site, you will see a penci
 
 3. When you are finished making changes, click the green button at the top that says "Save".
 
-4. This will create a pull request in the GitHub repository and the repository managers will be notified that you have made changes. Someone will review the changes that you made for inclusion. When your changes are accepted, the content you added will get merged with our develop branch and will then be live at [https://bike.brattleboro.town/](https://bike.brattleboro.town/)
+4. This will create a pull request in the GitHub repository and the repository managers will be notified that you have made changes. Someone will review the changes that you made for inclusion. When your changes are accepted, the content you added will get merged with our develop branch and will then be live at [https://teach.brattleboro.town/](https://teach.brattleboro.town/)

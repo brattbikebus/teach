@@ -7,12 +7,9 @@ hero:
   text: Brattleboro
   tagline: Teaching Resources
   image:
-    src: /bike_bus_logo.png
-    alt: Bike Bus Logo
+    src: https://i0.pickpik.com/photos/752/409/255/teach-education-school-class-preview.jpg
+    alt: Teach Logo
   actions:
-    - theme: brand
-      text: Check out the route
-      link: /route.md
     - theme: alt
       text: Contact us
       link: /contact.md
@@ -31,6 +28,6 @@ features:
 date: 2024-11-07T08:57:00.000Z
 ---
 
-## Come Ride With Us!
+## Come Teach With Us!
 
-We are just getting started -- please reach out if you are excited about bikes and live in the Brattleboro, VT area!
+We are just getting started -- please reach out if you are excited about teaching and live in the Brattleboro, VT area!

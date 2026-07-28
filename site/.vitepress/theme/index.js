@@ -7,7 +7,6 @@ import 'vuetify/styles'
 import './custom.css'
 
 // Import your custom components
-import Calendar from './components/Calendar.vue'
 
 export default {
   extends: DefaultTheme,
@@ -25,6 +24,5 @@ export default {
     app.use(vuetify)
     
     // Register custom components
-    app.component('Calendar', Calendar)
   }
 }
