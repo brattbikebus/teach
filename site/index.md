@@ -10,6 +10,9 @@ hero:
     src: https://i0.pickpik.com/photos/752/409/255/teach-education-school-class-preview.jpg
     alt: Teach Logo
   actions:
+    - theme: brand
+      text: Resources
+      link: /resources.md
     - theme: alt
       text: Contact us
       link: /contact.md

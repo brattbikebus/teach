@@ -24,6 +24,7 @@ export default defineConfig(({ mode }) => {
       // https://vitepress.dev/reference/default-theme-config
       nav: [
         { text: "Home", link: "index.md" },
+        { text: "Resources", link: "resources.md" },
         { text: "Contact", link: "contact.md" },
         { text: "Contribute", link: "contribute.md" },
       ],
