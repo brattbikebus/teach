@@ -2,6 +2,7 @@ backend:
   name: github
   branch: main
   repo: brattbikebus/teach
+  base_url: https://teach.brattleboro.town
   auth_scope: repo
   open_authoring: true
   site_domain: a5e5196c-b62b-4ed3-ae53-18c09f128d42
@@ -11,7 +12,7 @@ media_folder: "site/public"
 publish_mode: editorial_workflow
 
 collections:
-  - name: "doc"
+  - name: "docs"
     label: "Content"
     folder: "site"
     create: true
