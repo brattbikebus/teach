@@ -1,6 +1,7 @@
 ---
-title: Resources
+title: Resources!
 layout: doc
+date: 2026-08-02T13:18:00.000-04:00
 ---
 
 # Teaching Resources
