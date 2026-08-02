@@ -1,9 +1,9 @@
 ---
 title: Resources
 layout: doc
+date: 2026-08-02T13:06:00.000-04:00
 ---
-
-# Teaching Resources
+# Teaching Resourcesa
 
 ## ADHD
 
